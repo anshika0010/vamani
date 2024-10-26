@@ -1,0 +1,36 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.retag.in	TRUE	/test/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/en/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/de/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/fr/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/it/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/es/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/mx/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/pt/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/br/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/ar/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/pl/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/ru/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/at/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/sa/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/ec/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/ca/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/no/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/bj/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/se/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/hr/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/jp/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/mr/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/kr/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/tl/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/ch/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/is/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/bn/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/cu/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/cl/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/ie/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/	FALSE	1999999999	currency_code	INR
+www.retag.in	TRUE	/	FALSE	1999999999	PHPSESSID	a09u13defo0mqb7stkgq3n18ti
+www.retag.in	TRUE	/	FALSE	1999999999	SameSite	Lax
+
